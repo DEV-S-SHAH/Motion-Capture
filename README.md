@@ -30,7 +30,7 @@ This repository demonstrates real-time human motion capturing through wearable t
 
 2. Connect the MPU6050 sensor to the Arduino Uno following the provided schematic.
 
-3. Upload the Arduino code [`motion_capture.ino`](https://github.com/DEV-S-SHAH/Wearable-Motion-Capture/blob/main/Wearable-Motion-Capturing/left_hand.py) using the Arduino Software.
+3. Upload the Arduino code [`arduino_code.ino`](https://github.com/DEV-S-SHAH/Wearable-Motion-Capture/blob/main/Wearable-Motion-Capturing/arduino_code.ino)using the Arduino Software.
 
 4. For the calcualtion using graphs use [`calculations.ino`](https://github.com/DEV-S-SHAH/Wearable-Motion-Capture/blob/main/Wearable-Motion-Capturing/calculations.ino).
 
