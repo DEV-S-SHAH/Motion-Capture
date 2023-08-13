@@ -62,6 +62,12 @@ This repository demonstrates real-time human motion capturing through wearable t
 
 Contributions are welcome! If you have ideas or improvements, please open an issue or submit a pull request.
 
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/DEV-S-SHAH/Wearable-Motion-Capture/blob/main/LICENSE)
+
+
+
 ---
 
 Feel the pulse of motion as you explore the synergy of hardware and software. Dive into the captivating world of human motion tracking using wearables and embark on a journey of innovation.
