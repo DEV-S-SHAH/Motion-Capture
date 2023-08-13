@@ -55,5 +55,5 @@ Contributions are welcome! If you have ideas or improvements, please open an iss
 
 Feel the pulse of motion as you explore the synergy of hardware and software. Dive into the captivating world of human motion tracking using wearables and embark on a journey of innovation.
 
-If you have any questions or inquiries, feel free to reach out to me via email at [`DEV-S-SHAH`](mailto:devs4452@hmail.com).
+If you have any questions or inquiries, feel free to reach out to me via email at [`DEV-S-SHAH`](mailto:devs4452@gmail.com).
 
