@@ -1,3 +1,4 @@
+
 # Human Motion Capturing Using Wearables
 
 This repository demonstrates real-time human motion capturing through wearable technology, leveraging the MPU6050 sensor and Arduino Uno for data processing. The motion data is visualized in a 2D representation using the Pygame Python library.
@@ -11,6 +12,9 @@ This repository demonstrates real-time human motion capturing through wearable t
 3. **Arduino Software:** The official integrated development environment (IDE) for writing and uploading code to the Arduino board.
 
 4. **Pygame Library:** A Python library used for building interactive 2D games and simulations, applied here for real-time motion visualization.
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 
 ## How It Works
 
