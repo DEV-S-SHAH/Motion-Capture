@@ -1,3 +1,4 @@
+[![GitHub Banner](https://github.com/DEV-S-SHAH/Wearable-Motion-Capture/blob/main/Readme%20img/readme%20banner.jpg)](https://github.com/DEV-S-SHAH)
 
 # Human Motion Capturing Using Wearables
 
@@ -16,6 +17,9 @@ This repository demonstrates real-time human motion capturing through wearable t
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-s-shah&show_icons=true&locale=en&layout=compact" alt="dev-s-shah" /></p>
+<br>
+</br>
 ## How It Works
 
 1. **Data Acquisition:** The MPU6050 sensor records motion data (gyroscope and accelerometer readings) as the subject moves.
